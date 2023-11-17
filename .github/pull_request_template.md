@@ -11,7 +11,7 @@ Example: This PR is contributed by NRK
 -->
 
 ## Type of contribution
-<!-- Check one box with an "x" -->
+<!-- Pick one by marking it with an "x" -->
 
 This is a
 
@@ -22,11 +22,16 @@ This is a
 - [ ] Other (please specify)
 
 
-## Changes
+## Current behavior
 <!--
-Please describe the changes of this PR.
-If it's a bug fix: Describe bug (what was happening?) and the fix (what is the new behavior?).
-If it's a feature: Describe the new behaviour.
+Please describe how things worked before this PR.
+If it's a bug fixe: Describe the bug (what was happening?)
+-->
+
+
+## New behavior
+<!--
+What is the new behavior?
 -->
 
 
