@@ -2,7 +2,7 @@
 name: Question
 about: Use this if you have a question to ask
 title: ""
-labels: "❓ Question"
+labels: ❓ Question
 assignees: ''
 
 ---

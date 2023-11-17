@@ -2,7 +2,7 @@
 name: Request for comments
 about: Use this to initiate a discussion about a new feature or a larger change
 title: "RFC: [Short description of the feature]"
-labels: "RFC", "Contribution"
+labels: RFC, Contribution
 assignees: ''
 
 ---

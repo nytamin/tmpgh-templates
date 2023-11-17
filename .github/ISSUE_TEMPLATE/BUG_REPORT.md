@@ -2,7 +2,7 @@
 name: Bug report
 about: Use this if you have a problem with Sofie
 title: "Bug report: [Short description of the bug]"
-labels: "🐛bug"
+labels: 🐛bug
 assignees: ''
 
 ---
